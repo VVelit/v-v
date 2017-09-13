@@ -64,6 +64,7 @@ header{
 @media screen and (max-device-width:535px){
 .info{
 	height:130vh;
+	padding:5% 0;
 }
 .info .flex{
 	padding: 10% 0;
