@@ -99,12 +99,14 @@ header{
 		font-size: 1rem;
 		text-align: center;
 	}
-
-	.alibi p{
-		padding:30% 0 0 0;
-		max-width: 650px;
-		font-size: 1.7rem;
+	.inf .inf-s2 p{
+		text-align: center;
 	}
+
+	.alibi p.al-p{
+		font-size: 3rem;
+	}
+	
 }
 
 .inf{
@@ -147,6 +149,10 @@ header{
 }
 .alibi{
 	position:relative;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
 	top:0;
 	right:0;
 	left:0;
@@ -161,18 +167,17 @@ header{
 	font-family: 'Quicksand', sans-serif;
 	z-index: 1;
 }
-.alibi p{
-	padding:16% 0 0 0;
-	max-width: 650px;
-	font-size: 1.4rem;
+.al-p{
+	max-width: 700px;
+	font-size: 2rem;
 	opacity: 0.5;
-	margin: auto;
 	font-family: 'Raleway', sans-serif;
 	font-family: 'Quicksand', sans-serif;
 	font-family: 'Yanone Kaffeesatz', sans-serif;
 }
-.ailibi h2{
+.alibi h2{
+	opacity: 0.5;
 	font-family: 'Raleway', sans-serif;
 	font-family: 'Quicksand', sans-serif;
-	font-family: 'Yanone Kaffeesatz', sans-serif;
+	padding: 10% 0;
 }
