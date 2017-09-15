@@ -136,7 +136,7 @@ header{
 }
 .alibi:before{
 	content:"";
-	height:120vh;
+	height:130vh;
 	background: #000;
 	background-size: cover;
 	position: absolute;
@@ -155,7 +155,7 @@ header{
 	top:0;
 	right:0;
 	left:0;
-	height:120vh;
+	height:130vh;
 	background-image: url('http://medias.unifrance.org/medias/36/160/172068/format_page/alibi-com.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -178,5 +178,5 @@ header{
 	opacity: 0.5;
 	font-family: 'Raleway', sans-serif;
 	font-family: 'Quicksand', sans-serif;
-	padding: 8% 0;
+	padding: 6% 0;
 }
