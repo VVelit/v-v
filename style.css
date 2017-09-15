@@ -115,11 +115,10 @@ header{
 	justify-content: space-around;
 	align-items: center;
 	background: #4642BB;
-	padding:3% 0;
+	padding:1% 0;
 	color:#fff;
 	font-family: 'Raleway', sans-serif;
 	font-family: 'Quicksand', sans-serif;
-	font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .inf h2{
 	padding: 0 0 3% 3%;
@@ -173,7 +172,6 @@ header{
 	opacity: 0.5;
 	font-family: 'Raleway', sans-serif;
 	font-family: 'Quicksand', sans-serif;
-	font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .alibi h2{
 	opacity: 0.5;
